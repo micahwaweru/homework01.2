@@ -1,1 +1,4 @@
-
+For this project I read through the HTML and added symantex tags. I then added alt tags to all the images except for the Hero Image (due to lack of time to play with the image sizing after moving it from the CSS to the HTML).
+I then created an initial repository in which a recent version of my homework lives, however, I created the second version in-order to streamline the contents to simply contain the HTML, CSS and images.
+After creating the repository, I added, committed and pushed my files from my machine to the repository and set up pages after making sure my CSS and images were linked consistently so as to show up after being pushed.
+Finally, I documented my changes and added them to the repo readme.
